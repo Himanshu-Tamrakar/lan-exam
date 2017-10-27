@@ -10,6 +10,7 @@ void open(int, int*);
 void detect(int**, int);
 void opengraphic();
 
+
 void main()
 {
     REGS in, out;
